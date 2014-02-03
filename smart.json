@@ -1,0 +1,9 @@
+{
+  "name": "marked",
+  "description": "A markdown parser and compiler. Built for speed.",
+  "homepage": "http://manuel-schoebel.com",
+  "author": "Manuel Schoebel <mail@manuel-schoebel.com>",
+  "version": "0.0.1",
+  "git": "",
+  "packages": {}
+}
